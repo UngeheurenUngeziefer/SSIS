@@ -1,0 +1,7 @@
+NationalIDNumber,LoginID,OrganizationLevel,JobTitle,BirthDate,MaritalStatus,Gender,HireDate
+245797967,adventure-works\terri0,1,Vice President of Engineering,1971-08-01,S,F,2008-01-31
+24756624,adventure-works\david0,1,Marketing Manager,1975-03-19,S,M,2007-12-20
+519899904,adventure-works\james1,1,Vice President of Production,1983-01-07,S,M,2009-02-03
+184188301,adventure-works\laura1,1,Chief Financial Officer,1976-01-06,M,F,2009-01-31
+441044382,adventure-works\jean0,1,Information Services Manager,1975-12-13,S,F,2008-12-11
+112432117,adventure-works\brian3,1,Vice President of Sales,1977-06-06,S,M,2011-02-15
