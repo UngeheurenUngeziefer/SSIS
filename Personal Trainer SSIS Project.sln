@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Personal Trainer SSIS Project", "Personal Trainer SSIS Project\Personal Trainer SSIS Project.dtproj", "{BB180FBC-317C-4641-AD4C-048ABF2CD1AC}"
 EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Deployment Project", "Deployment Project\Deployment Project.dtproj", "{85BDE596-856C-4067-9FA0-BD510915765B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
@@ -12,6 +14,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{BB180FBC-317C-4641-AD4C-048ABF2CD1AC}.Development|Default.ActiveCfg = Development
 		{BB180FBC-317C-4641-AD4C-048ABF2CD1AC}.Development|Default.Build.0 = Development
+		{85BDE596-856C-4067-9FA0-BD510915765B}.Development|Default.ActiveCfg = Development
+		{85BDE596-856C-4067-9FA0-BD510915765B}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
